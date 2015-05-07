@@ -26,7 +26,7 @@ We believe that values with which anyone would agree, in all circumstances, are 
 
 For example, Facebook famously championed the phrase "Move fast and break things" as a core engineering value. As a young social network, that absolutely makes sense. The consequences of throwing hacks against the wall to see what sticks are ultimately rather low.
 
-Working with government, on the other hand, requires a much higher emphaisis on stability. Trust â€” that we are always available, that we never lose data â€” is the foundation of our business. Such a cavalier attitude towards user's trust is not what we believe in, but more importantly not what makes sense in our context.
+Working with government, on the other hand, requires a much higher emphaisis on stability. Trust — that we are always available, that we never lose data — is the foundation of our business. Such a cavalier attitude towards user's trust is not what we believe in, but more importantly not what makes sense in our context.
 
 ## Empathy
 
@@ -56,7 +56,7 @@ At the end of the day, there is no abstract entity called Seneca Systems; only t
 
 ## Choose what is right over what is easy
 
-> New Google employees (we call â€œNooglersâ€) often ask me what makes me effective at what I do. I tell them only half-jokingly that it's very simple: I do the Right Thing for Google and the world, and then I sit back and wait to get fired.
+> New Google employees (we call ‘Nooglers’) often ask me what makes me effective at what I do. I tell them only half-jokingly that it's very simple: I do the Right Thing for Google and the world, and then I sit back and wait to get fired.
 
 > If I don't get fired, I've done the Right Thing for everyone. If I do get fired, this is the wrong employer to work for in the first place. So, either way, I win. That is my career strategy.
 
