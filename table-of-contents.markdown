@@ -7,7 +7,6 @@ The goal of this handbook is to get you familiar with the company, our values, a
 # Table of Contents
 
 - [About](https://github.com/SenecaSystems/employee_handbook/tree/master/about)
-  + [Introduction](https://github.com/SenecaSystems/employee_handbook/blob/master/about/introduction.markdown)
   + [Mission Statement](https://github.com/SenecaSystems/employee_handbook/blob/master/about/mission-statement.markdown)
   + [Values](https://github.com/SenecaSystems/employee_handbook/blob/master/about/values.markdown)
   + [History](https://github.com/SenecaSystems/employee_handbook/blob/master/about/history.markdown)
