@@ -12,7 +12,7 @@ The goal of this handbook is to get you familiar with the company, our values, a
   + [History](https://github.com/SenecaSystems/employee_handbook/blob/master/about/history.markdown)
 - [Employment](https://github.com/SenecaSystems/employee_handbook/tree/master/employment)
   + [Discrimination](https://github.com/SenecaSystems/employee_handbook/blob/master/employment/discrimination.markdown)
-  + [Harrassment](https://github.com/SenecaSystems/employee_handbook/blob/master/employment/harrassment.markdown)
+  + [Harrassment](https://github.com/SenecaSystems/employee_handbook/blob/master/employment/harassment.markdown)
 - [Compensation](https://github.com/SenecaSystems/employee_handbook/tree/master/compensation)
   + [Salary](https://github.com/SenecaSystems/employee_handbook/blob/master/compensation/salary.markdown)
   + [Equity](https://github.com/SenecaSystems/employee_handbook/blob/master/compensation/equity.markdown)
