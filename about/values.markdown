@@ -4,11 +4,11 @@
 
 Our values are the foundation on which we build a world-class organization.
 
-Empathy
-Transparency
-People are all that matter
-Do what is right, not what is easy
-Take long-term bets and expect occasional failure
+- Empathy
+- Transparency
+- Optimize for people
+- Right over easy
+- Take long-term bets and expect occasional failure
 
 ### Why have values?
 
