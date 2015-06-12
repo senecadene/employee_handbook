@@ -19,5 +19,6 @@ The goal of this handbook is to get you familiar with the company, our values, a
 - [Benefits](https://github.com/SenecaSystems/employee_handbook/tree/master/benefits/)
   + [Leave](https://github.com/SenecaSystems/employee_handbook/blob/master/benefits/leave.markdown)
   + [Insurance](https://github.com/SenecaSystems/employee_handbook/blob/master/benefits/insurance.markdown)
+  + [Donation Matching](https://github.com/SenecaSystems/employee_handbook/blob/master/benefits/donation_matching.markdown)
 - [Appendix](https://github.com/SenecaSystems/employee_handbook/tree/master/appendix/)
   + [Resources](https://github.com/SenecaSystems/employee_handbook/blob/master/appendix/resources.markdown)
