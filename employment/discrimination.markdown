@@ -11,6 +11,7 @@ Under no circumstances will we discriminate any candidate for a position at Sene
 - age
 - physical characteristics (height, weight, subjective attractiveness)
 - ancestry or nationality
+- Criminal background
 
 We can provide a legal rationale for not discriminating on arbitrary characteristics. There is also a very good business case for anti-discrimination policies. In addition to and above those reasons, we will not discriminate because we fundamentally believe it is wrong.
 
