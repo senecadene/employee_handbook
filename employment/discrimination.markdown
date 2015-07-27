@@ -1,6 +1,6 @@
 # Employment – Discrimination
 
-Under no circumstances will we discriminate any candidate for a position at Seneca Systems by:
+Under no circumstances will we discriminate against any candidate for a position at Seneca Systems by:
 
 - race
 - gender identity
