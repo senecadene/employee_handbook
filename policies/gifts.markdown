@@ -4,7 +4,7 @@ Anything with monetary value may not be given or accepted by any member of our c
 
 If a political talk show could spin it negatively—and that's a very low bar—then you shouldn't be involved.
 
-Given our work in with public officials and civil servants—keeping in mind the sometimes questionable, other times outright fraudulent relationship between contractors and their customers in our industry—our motives should always be clear and upfront.
+Given our work with public officials and civil servants—keeping in mind the sometimes questionable, other times outright fraudulent relationship between contractors and their customers in our industry—our motives should always be clear and upfront.
 
 We aim for our products to be the best. If they cannot win on their merits, backed by the passionate and talented individuals who build and support them, then we should not win the deal.
 
