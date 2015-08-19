@@ -14,4 +14,4 @@ We do it anyway.
 
 ## Personal Donations
 
-We recognize that employees have personal political intersets and encourage them to get involved. To prevent bias or inappropriate relationships, if an employee has donated to any campaign (political or otherwise) related to a government employee then they should not be involved with Seneca's relationship with that employee. For example, if a representative decides to raise money for cancer research by running a marathon, you are welcome to donate to their cause. You may not, however, work on their account for the company.
+We recognize that employees have personal political interests and encourage them to get involved. To prevent bias or inappropriate relationships, if an employee has donated to any campaign (political or otherwise) related to a government employee then they should not be involved with Seneca's relationship with that employee. For example, if a representative decides to raise money for cancer research by running a marathon, you are welcome to donate to their cause. You may not, however, work on their account for the company.
