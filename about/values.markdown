@@ -82,5 +82,4 @@ Very rarely do people actively choose the morally wrong option. Oftentimes, doin
 
 If we hit 100% of our targets, we aren't aiming high enough. If every campaign we launch is a smashing success, we aren't taking enough risks. We will build a team that is guaranteed to produce a good business, and we'll risk it for a legendary one.
 
-This does not excuse building a shitty experience; everything we put our name on should be of top quality. We simply recognize that â€œthe best laid plans of mice and men often go awryâ€.
-
+This does not excuse building a shitty experience; everything we put our name on should be of top quality. We simply recognize that “the best laid plans of mice and men often go awry”.
