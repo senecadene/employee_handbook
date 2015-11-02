@@ -19,3 +19,4 @@ These days do not count *towards* your minimum vacation time off; we do not cons
 ## Jury Duty
 
 Jury duty is a public service and we are all about public service! Paid time off for you, Glen CoCo!
+Time taken for jury duty does not count towards our minimum vacation policy.
