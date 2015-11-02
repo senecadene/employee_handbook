@@ -2,7 +2,7 @@
 
 Welcome to Seneca Systems.
 
-The goal of this handbook is to get you familiar with the company, our values, and the standard policies by which we abide. We've tried to keep the legaleze to a bare minimum and if you have any questions please do not hesitate to ask your manager.
+The goal of this handbook is to get you familiar with the company, our values, and the standard policies by which we abide. We've tried to keep the legalese to a bare minimum and if you have any questions please do not hesitate to ask your manager.
 
 # Table of Contents
 
