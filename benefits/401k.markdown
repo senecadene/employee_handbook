@@ -1,0 +1,7 @@
+# 401k
+
+Seneca Systems offers all employees access to a 401k.
+
+By default, the contribution rate is set at 5% of your base salary. You can change the contribution rate at any time.
+
+Due to our small size, we cannot yet match contributions, but absolutely plan to do so in the future.
