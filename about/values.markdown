@@ -42,7 +42,7 @@ While intentions are not a metric of success, we are infinitely more likely to f
 
 Every decision, at every level, should be justifiable to every other employee. While we may disagree, outright secrecy or passively choosing to not share certain pieces of information should be a sign that you shouldn't have done it in the first place.
 
-Presentation conveys as much, if not more, than the raw data. Facts should never be knowingly skewed, misrepresented, or â€˜massaged' to imply untruths. What others walk away believing is infinitely more important that what you literally said.
+Presentation conveys as much, if not more, than the raw data. Facts should never be knowingly skewed, misrepresented, or 'massaged' to imply untruths. What others walk away believing is infinitely more important that what you literally said.
 
 ## People are all that matter
 
